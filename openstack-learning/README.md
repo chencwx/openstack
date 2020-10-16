@@ -1,5 +1,10 @@
 # openstack学习笔记
 
+## 学习进度
+
+- [x] `openstack`总述（概念、语言、支持环境等）
+- [x] `openstack insatallation in ubuntu`（版本、支持的service等）
+
 ## 总述
 
 + **OpenStack**是[美国国家航空航天局](https://zh.wikipedia.org/wiki/美國太空總署)和[Rackspace](https://zh.wikipedia.org/wiki/Rackspace)合作研发的[云计算](https://zh.wikipedia.org/wiki/雲端運算)软件，以[Apache授权条款](https://zh.wikipedia.org/wiki/Apache授權條款)授权，并且是[自由](https://zh.wikipedia.org/wiki/自由軟件)和[开放源代码软件](https://zh.wikipedia.org/wiki/开放源代码软件)。
@@ -24,7 +29,7 @@
 
 
 
-## installation
+## installation in ubuntu
 
 + OpenStack的稳5261定版4102一般需要倒推一个版本1653，4月上线的mitaka版本，所以目前稳定版就是liberty。所以接下来学习`liberty`的指南
 
